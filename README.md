@@ -152,3 +152,11 @@ pip install pandas sqlalchemy pymysql
 - The **Middle-aged and Adult** segments contribute the most revenue across all age groups.
 - Several top-selling products show high **discount dependency**, suggesting pricing strategy opportunities.
 - **Standard and Express shipping** show comparable average purchase amounts, indicating shipping choice isn't strongly tied to spend level.
+
+----
+
+## 🙋 Author
+
+**Sweta Mehta**
+
+Data Analyst | Data Science Portfolio Project
