@@ -99,7 +99,7 @@ Ten business questions were answered using SQL queries:
 
 An interactive dashboard was built in Power BI to visualise key findings, including revenue breakdowns by gender and age group, subscription impact on spending, product performance, and discount behaviour patterns.
 
-![image alt](https://github.com/Sweta941/E-Commerce-Data-Analysis-Using-MySQL-/blob/31bf2074ee3ceed8b275cabe231753768ce41953/Screenshot%20(71).png)
+![image alt](https://github.com/Sweta941/Customer-Shopping-Behavior-Analysis-SQL-Python-Power-Bi-/blob/8ff266466cb578a3c77439410baa017a6aff9084/Dashboard.png)
 ---
 
 ## 🛠️ Tools & Technologies
