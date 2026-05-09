@@ -161,5 +161,3 @@ pip install pandas sqlalchemy pymysql
 **Sweta Mehta**
 
 Data Analyst | Data Science Portfolio Project
-
-
